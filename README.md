@@ -1,2 +1,2 @@
 # weather_effects
-The goal of this project is to explore how the weather can effect individual's mental health.
+Within the field of psychology, there has been a lot of research conducted on if weather can influence people’s mood. For individuals living in climates with varying climates, the periodical changes occurring from warmer to colder seasons that include fewer hours of sunlight, colder temperatures, and more overcast skies. As a student studying in a technology field, I am curious whether changes specifically affect people working within the field of technology. The goal of our project is to examine and better understand the patterns between weather and geographic location with the mental health of people working in the tech field.
